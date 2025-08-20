@@ -1,0 +1,6 @@
+<!doctype html><html><body><section id='work'><div class='cards'></div></section></body></html>
+
+/* outlet-logo cards */
+.outlet-logo-link{display:block; margin-bottom:.5rem}
+.outlet-logo{width:160px; height:auto; display:block; filter: drop-shadow(0 4px 18px rgba(0,0,0,.25)); background:#0f1320; border-radius:8px}
+@media (max-width:520px){.outlet-logo{width:140px}}
